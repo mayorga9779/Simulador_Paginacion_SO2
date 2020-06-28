@@ -17,6 +17,7 @@ namespace Simulador_Paginacion_SO2
         public Tabla_De_Paginas()
         {
 
+
         }
 
         public Tabla_De_Paginas(String id_proceso, String nombre_proceso, String numero_pagina, String numero_marco, int bit_validez)
